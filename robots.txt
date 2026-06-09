@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hawori07-hash.github.io/reality-dating-test/sitemap.xml
+Sitemap: https://loveaffair.cloud/sitemap.xml
